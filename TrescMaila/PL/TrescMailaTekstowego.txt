@@ -2,6 +2,30 @@ Szanowni Państwo,
 
 jestem zainteresowany uczestnictwem w procesie rekrutacyjnym do Państwa firmy.
 
+Obecnie staram się znaleźć pierwszą pracę jako tester manualny z ewentualną możliwością dalszego rozwoju w kierunku
+automatyzacji. Aktualnie staram się także uzyskiwać zlecenia testerskie na portalach crowdtestingowych oraz w ramach
+szeroko pojętego freelancingu aby zwiększyć swoje doświadczenie w tej kwestii. Z przyjemnością spotkałbym się z
+Państwem na rozmowie kwalifikacyjnej i opowiedziałbym więcej o sobie.
+
+Ze względu na moje postępy dokonywane w dziedzinie rozwoju w kierunku testerskim zapraszam także Państwa także do
+obserwowania mojego profilu na portalu linkedin na którym regularnie wszystkie postępy staram się umieszczać.
+
+Obecnie pracuję nad projektem wykorzystującym biblioteki Selenium w języku programowania Python, którego celem
+ma być tylko i wyłącznie automatyczne przeglądanie profili na portalu linkedin.
+
+Ponadto chciałbym zwrócić uwagę, że powyższa wiadomość email została do Państwa wystosowana za pośrednictwem
+napisanego przezemnie programu mającego na celu automatyzację procesu wysyłania wiadomości email do sporządzonej
+listy mailingowej. Projekt jest dostępny na moim profilu GitHub github.com/RomanGlegola/ProgramDoWysylaniaCV
+Jeśli Państwo sobie życzą abym usunął Państwa adres poczty elektronicznej z powyższej listy mailingowej proszę o
+przesłanie stosownej informacji w odpowiedzi, taką dyspozycję wykonam manualnie. W przeciwnym wypadku otrzymają
+Państwo ponownie wiadomość z mojej skrzynki email na przełomie miesięcy listopad-grudzień w przypadku gdybym do
+tego czasu nie znalazł stałej pracy testerskiej.  Takie informacje są dla mnie niezwykle ważne i mogą zaważyć na
+mojej przyszłej karierze.
+
+Jeśli uważają Państwo, że obecnie brakuje mi umiejętności potrzebnych do rozpoczęcia komercyjnej kariery testerskiej
+to prosiłbym o dostarczenie informacji dotyczących ewentualnych braków, które powinienem nadrobić lub ogólne porady,
+którymi powinienem się kierować.
+
 Z wyrazami Szacunku
 Roman Glegoła
 linkedin.com/romanglegola
